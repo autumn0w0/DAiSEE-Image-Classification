@@ -6,6 +6,11 @@ This project aims to classify images from the DAiSEE dataset into five categorie
 
 The DAiSEE dataset provides a comprehensive set of images for detecting different states of user engagement. This project leverages the power of CNNs to automatically classify these images into predefined categories. The goal is to create a model that can accurately identify the engagement state of individuals based on their facial expressions.
 
+## DAiSEE Image DataSet
+The DAiSEE dataset provides a comprehensive set of images for detecting different states of user engagement. 
+To access the dataset, go to the following link:
+https://people.iith.ac.in/vineethnb/resources/daisee/index.html
+
 ## Methodology
 
 1. **Data Preprocessing**: 
