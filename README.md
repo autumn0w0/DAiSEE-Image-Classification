@@ -10,6 +10,8 @@ The DAiSEE dataset provides a comprehensive set of images for detecting differen
 The DAiSEE dataset provides a comprehensive set of images for detecting different states of user engagement. 
 To access the dataset, go to the following link:
 https://people.iith.ac.in/vineethnb/resources/daisee/index.html
+MY DATASET LINK: 
+https://drive.google.com/drive/folders/1iZvMsAbbRDvDnw0swsWAv61amzB_u_7Z?usp=sharing
 
 ## Methodology
 
@@ -42,6 +44,3 @@ These results indicate that the model is highly effective in classifying the dif
 ## Conclusion
 
 This project demonstrates the capability of CNNs, specifically EfficientNetB0, in the field of image classification for engagement recognition. The high accuracy achieved suggests that this approach can be used for practical applications in educational technology, user experience research, and other domains requiring automatic engagement detection.
-
-MY DATASET LINK: 
-https://drive.google.com/drive/folders/1iZvMsAbbRDvDnw0swsWAv61amzB_u_7Z?usp=sharing
